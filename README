@@ -1,4 +1,7 @@
-Woot watcher is a trival woot screen scrapper that polls the site every 5 minutes, parses it with Hpricot, and growls new items it finds.  Could be modified with little difficulty to poll Ebay etc.  Please be kind and do not lower the poll rate to respect Woot's bandwidth.
+Woot watcher is a trivial screen scrapper that polls the Woot.com site every 5 minutes, parses it with Hpricot, and growls new items it finds.  
+It could be modified with little difficulty to poll Ebay etc.  
+
+Please be kind and do not lower the poll rate to respect Woot's bandwidth.
 
 THIS SOFTWARE IS PROVIDED AS-IS WITH NO WARRANTY EXPRESSED OR IMPLIED
-justinnospamplease-wiley@gmail.com
+justin dot wiley at gmail dot com

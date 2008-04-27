@@ -17,7 +17,7 @@ while(true)
     @retry += 1
     retry if @retry < 3
   end
-  item = doc.search("//h3").innerHTML
+  item = doc.search("//h3").innerHTML   # assume H3 will contain woot item info
   puts item
   if @last_item != item
     @g.notify "ruby-growl Notification", "New Woot Item - #{item}", "New Woot Item - #{item}"
